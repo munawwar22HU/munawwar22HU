@@ -15,7 +15,7 @@ Data Analyst • Data Engineer • Turning Data into Business Impact
   <a href="https://github.com/munawwar22HU" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github" />
   </a>
-  <a href="https://munawwaranwar.com/resume" target="_blank">
+  <a href="https://munawwaranwar.com/resume.pdf" target="_blank">
     <img src="https://img.shields.io/badge/Resume-Download-success?style=for-the-badge" />
   </a>
 </p>
