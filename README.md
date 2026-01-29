@@ -1,8 +1,8 @@
 <!-- ================= PROFILE HEADER ================= -->
 
-<h1 align="center">Hi 👋, I'm M. Munawwar Anwar</h1>
+<h1 align="center">Hi 👋, I'm Muhammad Munawwar Anwar</h1>
 <h3 align="center">
-Data Analyst • Data Engineer • Turning Data into Business Impact
+Entry-Level Data Analyst • Python, SQL & Power BI • Data Validation, Reporting & Analytics
 </h3>
 
 <p align="center">
@@ -28,98 +28,77 @@ Data Analyst • Data Engineer • Turning Data into Business Impact
 
 ## 🚀 About Me
 
-- 🎓 MS in Computer Science @ **Emory University** (GPA: 4.0)
-- 📊 Former **Data Analyst Intern @ ABM Industries**
-- 🔬 Research Assistant (Deep Learning & LLMs)
-- 💡 Passionate about **Analytics, Data Engineering & AI**
-- 🌱 Currently learning **Cloud Data Platforms & Advanced ML**
+I’m an **Entry-Level Data Analyst** with **hands-on experience supporting analytics, reporting, and data workflows** across finance, IT operations, and academic environments. I focus on **data accuracy, validation, and turning raw datasets into clear, reliable insights** that teams can trust.
+
+- 🎓 **MS in Computer Science**, Emory University (GPA: **4.0**)  
+- 🎓 **BS in Computer Science**, Habib University (GPA: **3.85**)  
+- 📊 Former **Data Analyst Intern @ ABM Industries**  
+- 🧪 Experience working with real production datasets and business reporting  
 - 📫 Reach me at: **munawwaradam@gmail.com**
 
-💼 **Open to roles:**
-- Data Analyst
-- Analytics Engineer
-- Data Engineer
-- Business Intelligence
+💼 **Actively seeking:**
+- Entry-Level Data Analyst  
+- Junior Data Analyst  
+- Business Intelligence / Reporting Analyst  
 
 ---
 
 ## 🎯 What I Bring
 
-✔ Migrated enterprise SQL systems (Oracle → Azure)  
-✔ Built analytics platforms handling **20M+ records**  
-✔ Automated data pipelines using Python & SQL  
-✔ Developed **production-grade LLM tools**  
-✔ Strong research background in ML & Deep Learning  
+✔ SQL & Python–based **data analysis and validation**  
+✔ Experience validating **200K+ financial records**  
+✔ Power BI dashboards connected to SQL databases  
+✔ Automated reporting and ETL workflows  
+✔ Clear communication of insights to non-technical stakeholders  
 
 ---
 
 ## 💼 Professional Experience
 
-### **ABM Industries** — *Data Analyst Intern*
-**June 2025 – August 2025**
-- Migrated Oracle stored procedures to Azure SQL → **40% faster execution**
-- Reduced data discrepancies to **<5%** using Python validation scripts
-- Built **735 Q&A dataset** from 30 SOPs for chatbot fine-tuning
-- Developed **production-grade LLM chatbot** using Azure AI Foundry to automate SOP search
+### **ABM Industries** — *Data Analyst Intern*  
+**Atlanta, GA | June 2025 – August 2025**
 
-### **Habib University** — *Research Assistant*
-**July 2022 – July 2024**
-- Led weekly **Python & SQL labs** for 30 students (+15% performance)
-- Redesigned **34 labs & assignments** (-20% support tickets)
-- Mentored **10 research projects** → 2 ICETST 2024 papers
-
-### **Ismail Industries Ltd.** — *IT Intern*
-**July 2021 – August 2021**
-- Processed **100K+ daily syslogs**
-- Built Python ETL → MS SQL warehouse
-- Created **Power BI dashboards** for security insights
+- Migrated and optimized Oracle data workflows to **Azure SQL**, improving query execution time by **50%** and supporting FP&A reporting timelines  
+- Validated **200K financial records**, reducing discrepancies from **35% to under 5%** using Python scripts and SQL reconciliation checks  
+- Built an automated documentation pipeline converting **30 unstructured PDFs into 735 structured Q&A pairs**, improving information accessibility for internal teams  
+- Supported production reporting by ensuring clean, reliable datasets for downstream analysis  
 
 ---
 
-## 🧪 Featured Projects
+### **Habib University** — *Research Assistant (Computer Science)*  
+**Karachi, Pakistan | July 2022 – July 2024**
 
-### 🚖 NYC Yellow Taxi Analytics
-- Analyzed **20M+ trip records**
-- Tech: PostgreSQL, Python, Pandas
-- Built ETL pipelines + optimized schemas
-- Generated insights on demand, fares & vendors
+- Designed **34 Python and SQL lab assignments**, reducing instructional support time from **8 to 4 hours per week**  
+- Facilitated weekly **Python & SQL labs for 30+ students**, achieving **95%+ assignment completion rates**  
+- Supported student research and technical problem-solving through hands-on coding guidance and documentation  
 
-### 📊 Gender Wage Gap Scrollytelling
-- Tech: D3.js, JavaScript
-- Visualized **50,000 records (1981–2013)**
-- Story-driven analytics experience
+---
 
-### 🏫 School Management System
-- Tech: MongoDB, Express, React, Node
-- Built role-based system for teachers & students
-- REST APIs + authentication
+### **Ismail Industries Ltd.** — *Information Technology Intern*  
+**Karachi, Pakistan | July 2021 – August 2021**
+
+- Parsed and analyzed **100K+ daily system log records** using Python  
+- Built automated ETL workflows loading log data into **MS SQL Server**  
+- Developed **Power BI dashboards** to automate security reporting and support IT decision-making  
 
 ---
 
 ## 🧰 Languages & Tools
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,postgres,mysql,mongodb,powerbi,tableau,tensorflow,pytorch,react,nodejs,express,docker,git,github,aws,azure&perline=8" />
-</p>
-
----
-
-## 📈 Contribution Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=munawwar22HU&theme=tokyo-night&hide_border=true" />
+  <img src="https://skillicons.dev/icons?i=python,sql,mysql,postgres,mssql,powerbi,tableau,excel,azure,git,github&perline=6" />
 </p>
 
 ---
 
 ## 🏆 Highlights
 
-- ⚡ Improved query performance by **40%**
-- 📊 Processed **20M+ records**
-- 🧠 Mentored **10 research projects**
-- 📝 Published **2 conference papers**
+- 📊 Validated **200K+ records** for production reporting  
+- ⚡ Improved SQL query performance by **50%**  
+- 📈 Automated manual reports using **Power BI**  
+- 🧠 Designed **34 Python & SQL labs** for analytics education  
 
 ---
 
 📩 **Interested in working together?**  
-Let’s connect on LinkedIn or email me at **munawwaradam@gmail.com**
+Feel free to connect on LinkedIn or email me at **munawwaradam@gmail.com**
