@@ -1,9 +1,6 @@
-<!-- ================= PROFILE HEADER ================= -->
+# Hi 👋, I'm Muhammad Munawwar Anwar
 
-<h1 align="center">Hi 👋, I'm Muhammad Munawwar Anwar</h1>
-<h3 align="center">
-Entry-Level Data Analyst • SQL, Python & Power BI • Data Validation, Reporting & Analytics
-</h3>
+### Entry-Level Data Analyst • SQL, Python & Power BI • Data Validation, Reporting & Analytics
 
 <p align="center">
   <a href="https://munawwaranwar.com" target="_blank">
@@ -45,7 +42,7 @@ I am an **Entry-Level Data Analyst** with experience supporting **financial repo
 
 ## 🎯 Core Strengths
 
-✔ SQL & Python–based data analysis and reconciliation  
+✔ SQL & Python-based data analysis and reconciliation  
 ✔ Validation of large-scale financial and operational datasets  
 ✔ Power BI dashboards connected to SQL databases  
 ✔ ETL / ELT pipeline development  
@@ -76,8 +73,7 @@ I am an **Entry-Level Data Analyst** with experience supporting **financial repo
 ### **Ismail Industries Ltd.** — IT Intern  
 **Karachi, Pakistan | July 2021 – August 2021**
 
-- Automated analysis of **100K+ daily security logs**, reducing alert review time from **5 hours to 1 hour** using Python-based log parsing  
-- Implemented Python ETL pipelines loading validated data into **SQL Server**, reducing investigation time from **80 to 30 minutes**  
+- Streamlined security log analysis, reducing alert review time from **5 hours to 1 hour**, by converting **100K+ daily Trend Micro logs** into structured CSVs using Python automation and an ETL pipeline into SQL Server  
 - Built **Power BI dashboards** that reduced security reporting time from **2 hours to 10 minutes**, enabling faster IT policy decisions  
 
 ---
@@ -86,24 +82,24 @@ I am an **Entry-Level Data Analyst** with experience supporting **financial repo
 
 ### **Automated Weather ETL Pipeline**  
 *Dec 2025 – Jan 2026*  
-- Automated weather data ingestion every **10 minutes** across **5 cities**, replacing **1.5 hours of daily manual work** using Python, SQLite, APIs, and GitHub Actions  
+- Eliminated 1.5 hours of daily manual data collection by automating weather ingestion from a public API every 10 minutes into SQLite across 5 cities, using Python and GitHub Actions for scheduling and monitoring.
 
 ### **NYC Taxi Analytics Platform**  
 *Aug 2025 – Dec 2025*  
-- Engineered PostgreSQL analytics platform processing **20M+ taxi records**, reducing fare and demand analysis time from **7 hours to 15 minutes** using Parquet ETL, Flask API, and React dashboards  
+- Reduced manual fare and demand analysis from 7 hours to 15 minutes across 20M+ NYC taxi trips by ingesting 8 months of Parquet files into a normalized PostgreSQL schema, building a Flask REST API, and deploying an interactive React dashboard across 256 taxi zones.
 
 ### **Gender Wage Gap Analysis Platform**  
 *Jan 2025 – Apr 2025*  
-- Built wage analysis platform processing **344K records**, reducing analysis time from **1.5 hours to 15 minutes** and enabling demographic comparisons using Python and D3.js  
+- Enabled real-time exploration of wage disparities across 344K records spanning 1981 to 2013, reducing manual analysis from 1.5 hours to 15 minutes across 6 demographic dimensions including age, education, and occupation, using an interactive D3.js scrollytelling interface.  
 
 ---
 
 ## 🧰 Languages & Tools
 
-**Languages:** SQL, Python, R  
-**Data Analysis & Visualization:** Power BI, Tableau, Looker, Plotly, D3.js, Excel (Advanced)  
+**Languages:** SQL, Python, R, JavaScript  
+**Data Analysis & Visualization:** Power BI, Tableau, Plotly, D3.js, Excel (Advanced)  
 **Data Engineering:** ETL / ELT Pipelines, Data Modeling, Data Warehousing, API Integration  
-**Databases:** SQL Server, MySQL, PostgreSQL, SQLite, Snowflake, BigQuery  
+**Databases:** SQL Server, MySQL, PostgreSQL, SQLite, MongoDB, BigQuery  
 **Statistics & Analytics:** Regression Analysis, Forecasting, Hypothesis Testing, A/B Testing, KPI Development  
 **Tools:** Git, GitHub Actions, Jupyter Notebook, Azure OpenAI  
 
@@ -118,6 +114,6 @@ I am an **Entry-Level Data Analyst** with experience supporting **financial repo
 
 ---
 
-📩 **Let’s connect**  
+📩 **Let's connect**  
 - LinkedIn: https://www.linkedin.com/in/manwar99/  
 - Email: **munawwaradam@gmail.com**
